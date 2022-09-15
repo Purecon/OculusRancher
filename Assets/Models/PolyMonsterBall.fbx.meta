@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 150971a23b1f2904fb0f73a796bc4750
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -910140062235872886
+    second: Armature_magenta|attack
+  - first:
+      74: -8793706461703860929
+    second: Armature_magenta|death
+  - first:
+      74: -2758731776377897745
+    second: Armature_magenta|hurt
+  - first:
+      74: 2722567543779093604
+    second: Armature_magenta|idle1
+  - first:
+      74: -4832352647296571484
+    second: Armature_magenta|idle2
+  - first:
+      74: -4969120451207572175
+    second: Armature_magenta|walk
+  - first:
+      74: -324648545922145612
+    second: Armature_red|attack
+  - first:
+      74: 3595367052868686419
+    second: Armature_red|death
+  - first:
+      74: 4228711088252867895
+    second: Armature_red|hurt
+  - first:
+      74: -5156866238523522717
+    second: Armature_red|idle1
+  - first:
+      74: -2133288968369684716
+    second: Armature_red|idle2
+  - first:
+      74: -6947865351541886556
+    second: Armature_red|walk
+  - first:
+      74: 8342397921279797086
+    second: Armature_yellow|attack
+  - first:
+      74: 1358020466877699453
+    second: Armature_yellow|death
+  - first:
+      74: 8873599284105018916
+    second: Armature_yellow|hurt
+  - first:
+      74: 8727429383957594855
+    second: Armature_yellow|idle1
+  - first:
+      74: 3860494591984285395
+    second: Armature_yellow|idle2
+  - first:
+      74: 3941053048406409759
+    second: Armature_yellow|walk
+  - first:
+      74: 2752081288706685315
+    second: Armature_green|attack
+  - first:
+      74: -354486179769414061
+    second: Armature_green|death
+  - first:
+      74: -2565075374406545740
+    second: Armature_green|hurt
+  - first:
+      74: -850397910818922024
+    second: Armature_green|idle1
+  - first:
+      74: -3336450113924381386
+    second: Armature_green|idle2
+  - first:
+      74: -7955314279781179244
+    second: Armature_green|walk
+  - first:
+      74: -1522036906111231761
+    second: Armature_blue|attack
+  - first:
+      74: -4248696732702955421
+    second: Armature_blue|death
+  - first:
+      74: 6353692398677456244
+    second: Armature_blue|hurt
+  - first:
+      74: 1410795327617193060
+    second: Armature_blue|idle1
+  - first:
+      74: 7274529713134759700
+    second: Armature_blue|idle2
+  - first:
+      74: -8966381185019134982
+    second: Armature_blue|walk
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 827fb237e93e69f4a9f87c4d614c45db, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

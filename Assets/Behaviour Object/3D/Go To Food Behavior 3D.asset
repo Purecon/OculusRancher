@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18d8cdf8bf786cc4fa7c4427a7ea0085, type: 3}
+  m_Name: Go To Food Behavior 3D
+  m_EditorClassIdentifier: 
+  filter: {fileID: 11400000, guid: d2d3db57209eb134cb71a015df905f69, type: 2}
+  radius: 0.1
+  foodSO: {fileID: 11400000, guid: 1a92a8a477519e748aac7b83c0819780, type: 2}
